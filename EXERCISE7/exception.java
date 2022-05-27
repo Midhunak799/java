@@ -1,3 +1,6 @@
+/* Write a user defined exception class to authenticate
+the user name and password.*/
+
 import java.util.*;
 
 class myException extends Exception{
